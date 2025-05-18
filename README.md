@@ -37,6 +37,6 @@ Replace 1a8624526e28 with the image ID obtained during the image build step.
 podman run -p 7600:7600 -p 7800:7800 -e LICENSE=accept -e ACE_SERVER_NAME=myserver 1a8624526e28
 ```
 
-## Deployed server
+## Server started
 
-![Deployed server](deployed-server.jpg)
+![Server started](server-started.jpg)
