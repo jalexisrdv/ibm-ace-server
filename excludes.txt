@@ -1,0 +1,5 @@
+*/tools
+*/server/tools/ibm-dfdl-java.zip
+*/server/tools/proxyservlet.war
+*/server/bin/TADataCollector.sh
+*/server/transformationAdvisor/ta-plugin-ace.jar
