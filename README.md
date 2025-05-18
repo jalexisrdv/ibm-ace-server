@@ -39,4 +39,4 @@ podman run -p 7600:7600 -p 7800:7800 -e LICENSE=accept -e ACE_SERVER_NAME=myserv
 
 ## Deployed server
 
-![Deployed server](deployed server.jpg)
+![Deployed server](deployed-server.jpg)
